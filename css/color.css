@@ -4,14 +4,14 @@ COLOR DEFINITION
 
 /*---------- Background Color ------------*/
 .hps-title4,
-.man-girl, 
+.man-girl,
 .box-left .icon .fa,
 .box-right .icon .fa,
-.about-bottom-title h4, 
-.news-date, 
+.about-bottom-title h4,
+.news-date,
 .parallax-background-overlay,
-.month, 
-.our-pricing, 
+.month,
+.our-pricing,
 .content-our-team.our-team-tabs .our-team-pane,
 .content-our-team.our-team-tabs .our-team-nav > span.our-team-current,
 .background-overlay,
@@ -60,10 +60,10 @@ COLOR DEFINITION
 .timetable-top .timetable-cont:hover .table:before,
 .sevices-wapper:hover
 .content-our-team.our-team-tabs .our-team-nav > span:hover,
-.classes-content .filter:hover, 
+.classes-content .filter:hover,
 .price-tb:hover .plan,
 .shop .price-table-content:hover,
-.product-content  .info-products:hover, 
+.product-content  .info-products:hover,
 .our-trainers .info-products:hover,
 #copyright:hover,
 .menu-about ul li a:hover,
@@ -100,7 +100,7 @@ COLOR DEFINITION
 .boxing-page .header-container .logo,
 .panel-tools .panel-button,.panel-tools  .layout-setting button.active,.reset-button button
 {
-	background: none repeat scroll 0 0 #ec3642;
+	background: none repeat scroll 0 0 #da1f5e;
 }
 /*---------- End Background Color ------------*/
 
@@ -157,7 +157,7 @@ COLOR DEFINITION
 .rating span,
 .info-content  a:hover
 {
-	color: #ec3642;
+	color: #da1f5e;
 }
 
 /*---------- End Text Color ------------*/
@@ -166,70 +166,70 @@ COLOR DEFINITION
 
 .megamenu ul.nav-menu > li *:before, .megamenu ul.nav-menu > li:after
 {
-	border-bottom-color: #ec3642;
+	border-bottom-color: #da1f5e;
 }
 .megamenu ul.nav-menu > li:before, .megamenu ul.nav-menu > li:after
  {
-    border-bottom: 2px solid #ec3642;
+    border-bottom: 2px solid #da1f5e;
 }
 .header-container-2.reveal:not(.alt), .header-container-3.reveal:not(.alt)
  {
-    border-bottom: 2px solid #ec3642 !important;
+    border-bottom: 2px solid #da1f5e !important;
 }
 .to-bottom:before {
-  border-color: transparent transparent #ec3642;
+  border-color: transparent transparent #da1f5e;
 }
 .class-info-title:before, .skill-percent:before{
-  border-color: transparent transparent transparent #ec3642;
+  border-color: transparent transparent transparent #da1f5e;
 }
 .class-info-title:before, .skill-percent:before {
-  border-left-color: #ec3642;
+  border-left-color: #da1f5e;
 }
 .box-left .icon .fa:after, .box-right .icon .fa:after {
-  border-top-color: #ec3642;
+  border-top-color: #da1f5e;
 }
 .box-left .icon .fa:after, .box-right .icon .fa:after {
-  border-color: #ec3642 transparent transparent;
+  border-color: #da1f5e transparent transparent;
 }
 .img-box-right-border {
-  border-left-color: #ec3642;
-  border-right: 0 solid #ec3642;
+  border-left-color: #da1f5e;
+  border-right: 0 solid #da1f5e;
 }
 .plan, .course, .shop .price-table-content a, .course:hover{
-  border: 2px solid #ec3642;
+  border: 2px solid #da1f5e;
 }
 .classes-content .filter.is-checked, .classes-content .filter:hover {
-  border: 1px solid #ec3642;
+  border: 1px solid #da1f5e;
 }
 .header-container-2, .header-container-3 {
-  border-bottom: 2px solid #ec3642;
+  border-bottom: 2px solid #da1f5e;
 }
 .archives-title span {
-  border-bottom: 1px solid #ec3642;
+  border-bottom: 1px solid #da1f5e;
 }
 .blog-main .img-blog img {
-  border: 4px solid #ec3642;
+  border: 4px solid #da1f5e;
 }
 .page-product .pages ol li.current a,
 .page-product .pages ol li a:hover,
 .panel-tools  .layout-setting button.active,.reset-button button{
-    border-color: #ec3642;
+    border-color: #da1f5e;
 }
 .popular-event .latest-news-item:hover, .product-popular ul li:hover{
-    border-left:2px solid #ec3642;
+    border-left:2px solid #da1f5e;
 }
 .page-product .product-image-wrapper .new-label:before {
-  border-color: transparent transparent transparent #ec3642;
+  border-color: transparent transparent transparent #da1f5e;
 }
 .button-wrap .close-btn {
-  background-color:#ec3642;
+  background-color:#da1f5e;
 }
 .add-to-box .button {
-  background-color:#ec3642;
+  background-color:#da1f5e;
 }
 .product-cart .cart .cart-collaterals .cart-total .button,
 .cart-collaterals .button, .checkout-row .button, .coupon .button, .btn-checkout{
-  background-color:#ec3642;
+  background-color:#da1f5e;
 }
 
 /*---------- End Border Color ------------*/
